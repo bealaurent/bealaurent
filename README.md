@@ -24,8 +24,6 @@ Atualmente, estudo **Sistemas de Informação na UFS (Universidade Federal de Se
 
 ### ✨ Sobre mim
 - 🎓 Estudante universitária apaixonada por resolver problemas reais com código
-- 👨‍👧 Moro com meu pai e minha irmã
-- 🌹 Em memória da minha mãe, que faleceu em janeiro de 2024
 - 🧩 Acredito no poder do aprendizado constante, da colaboração e da empatia no desenvolvimento de software
 
 ---
