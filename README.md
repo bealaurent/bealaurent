@@ -5,17 +5,18 @@ Atualmente, estudo **Sistemas de Informação na UFS (Universidade Federal de Se
 ---
 
 ### 💼 Tecnologias e Ferramentas
-- ☕ Java (em especial no backend)
+- ☕ Java (em especial no frontend)
+- 🐍 Python (iniciando)
 - 📄 JSF, PrimeFaces, RichFaces, Tomahawk
 - 🐘 SQL, JDBC
 - 🧰 Maven, Git
-- 🌐 HTML, JavaScript (nível básico)
+- 🌐 HTML, JavaScript (nível intermediário)
 - 📊 Consumo de Web Services e integração com sistemas legados
 
 ---
 
 ### 🎯 Objetivos Atuais
-- Aprofundar conhecimentos em **Java**
+- Aprofundar conhecimentos em **Java e Python**
 - Entender boas práticas de desenvolvimento em sistemas reais
 - Contribuir com projetos e aprender com a comunidade
 - Aprender mais sobre design de software e arquitetura
